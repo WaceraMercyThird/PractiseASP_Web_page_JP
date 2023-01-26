@@ -3987,6 +3987,11 @@ textarea.form-control-lg {
   font-size: 1.25rem;
   text-decoration: none;
   white-space: nowrap;
+  display: flex;
+  
+}
+.navbar-brand p{
+  font-size: 3px;
 }
 .navbar-nav {
   display: flex;
@@ -4012,6 +4017,7 @@ textarea.form-control-lg {
   flex-basis: 100%;
   flex-grow: 1;
   align-items: center;
+  width: 84%;
 }
 
 .navbar-toggler {

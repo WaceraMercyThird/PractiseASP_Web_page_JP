@@ -1,0 +1,16 @@
+
+.btn-lg-success{
+    color: #ffffff;
+    background-color: #000000;
+    border: solid 2px #AEAEAE;
+    border-radius: 23px;
+    padding: 22px 8px;
+    width: 53%;
+    
+}
+.btn-lg-success:hover {
+    color: #000000;
+    background-color: #ffffff;
+    border: solid 2px #EAEAEA;
+    border-radius: 23px;
+}

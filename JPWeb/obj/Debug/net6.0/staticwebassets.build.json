@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P4d8dbZUKrdnnB05G5BJlFp4sgAvKHsuKEfAnMH98hY=",
+  "Hash": "AfKH5xHS+Zp5KLu6bw/F6YWuqecrd3oOCAjrhYo+DAw=",
   "Source": "JPWeb",
   "BasePath": "_content/JPWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/jpmac/RiderProjects/JPWeb/JPWeb/obj/Debug/net6.0/scopedcss/projectbundle/JPWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/jpmac/RiderProjects/JPWeb/JPWeb/wwwroot/css/home.css",
+      "SourceId": "JPWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jpmac/RiderProjects/JPWeb/JPWeb/wwwroot/",
+      "BasePath": "_content/JPWeb",
+      "RelativePath": "css/home.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/home.css"
     },
     {
       "Identity": "/Users/jpmac/RiderProjects/JPWeb/JPWeb/wwwroot/css/site.css",

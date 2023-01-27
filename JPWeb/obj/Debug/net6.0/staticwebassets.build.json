@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AfKH5xHS+Zp5KLu6bw/F6YWuqecrd3oOCAjrhYo+DAw=",
+  "Hash": "ZIBMU5K5iCZCPk10yvS94WXByyp+8p01Q83qrhsHNYw=",
   "Source": "JPWeb",
   "BasePath": "_content/JPWeb",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/jpmac/RiderProjects/JPWeb/JPWeb/wwwroot/Images/payment.jpeg",
+      "SourceId": "JPWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jpmac/RiderProjects/JPWeb/JPWeb/wwwroot/",
+      "BasePath": "_content/JPWeb",
+      "RelativePath": "Images/payment.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/payment.jpeg"
     },
     {
       "Identity": "/Users/jpmac/RiderProjects/JPWeb/JPWeb/wwwroot/js/site.js",

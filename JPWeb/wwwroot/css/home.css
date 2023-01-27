@@ -1,16 +1,48 @@
-
+.back{
+    height: 80vh;
+    background-image: url("../Images/payment.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.opacity{
+    height: 80vh;
+    width: 100%;
+    background: #212529;
+    opacity: 89%;
+}
+.text-smaller {
+    font-size: 8px;
+    margin-top: -13%;
+    margin-left: 8%;
+}
 .btn-lg-success{
     color: #ffffff;
-    background-color: #000000;
-    border: solid 2px #AEAEAE;
-    border-radius: 23px;
-    padding: 22px 8px;
-    width: 53%;
+    background-color: #212529;
+    border: solid 2px #E8E8E8;
+    border-radius: 10px;
+    padding: 11px 82px;
     
+   
 }
 .btn-lg-success:hover {
     color: #000000;
     background-color: #ffffff;
     border: solid 2px #EAEAEA;
-    border-radius: 23px;
+    border-radius: 10px;
+   
+}
+.wrap-onboard{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 5%;
+}
+.text-wrapper{
+    color: #ffffff;
+}
+.wrap-container{
+    background: #ffffff;
+    height: 54vh;
+    width: 250%;
 }

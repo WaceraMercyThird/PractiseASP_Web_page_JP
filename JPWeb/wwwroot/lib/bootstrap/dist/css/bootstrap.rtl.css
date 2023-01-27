@@ -4018,6 +4018,7 @@ textarea.form-control-lg {
   flex-grow: 1;
   align-items: center;
   width: 84%;
+  background-color: #0a58ca;
 }
 
 .navbar-toggler {

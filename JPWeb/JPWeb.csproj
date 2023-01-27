@@ -10,4 +10,8 @@
       <None Include="wwwroot\Images\payment.jpeg" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Remove="Views\Shared\Header.cshtml" />
+    </ItemGroup>
+
 </Project>

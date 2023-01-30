@@ -20,7 +20,7 @@
     color: #ffffff;
     background-color: #212529;
     border: solid 2px #E8E8E8;
-    border-radius: 10px;
+    border-radius: 2px;
     padding: 11px 82px;
     
    
@@ -29,20 +29,90 @@
     color: #000000;
     background-color: #ffffff;
     border: solid 2px #EAEAEA;
-    border-radius: 10px;
+    border-radius: 2px;
    
 }
 .wrap-onboard{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-left: 5%;
+    margin-top: 3%;
+    margin-left: 8%;
 }
 .text-wrapper{
     color: #ffffff;
+    margin-right: 18%;
+    height: 63vh;
+    width: 103%;
+    padding: 6px 23px;
 }
-.wrap-container{
-    background: #ffffff;
-    height: 54vh;
-    width: 250%;
+
+.side-text h2{
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 9%;
 }
+.side-text h2 span{
+    font-weight: 100;
+}
+
+.side-text p{
+    font-size: 22px;
+}
+
+.btn-get{
+    margin-top: 2%;
+    color: #167ffa;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 2px;
+    padding: 11px 82px;
+    font-weight: bold;
+    margin-bottom: -18%;
+}
+.btn-get span{
+    margin-bottom: -23%;
+    margin-right: 2px;
+}
+.bill-wrapper{
+    background: #EAEAEA;
+    height: 62vh;
+    width: 100%;
+    border-radius: 6px;
+    border: none;
+  
+}
+.bill-hd h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 48px;
+    font-size: 23px;
+}
+.all-bill-boxes{
+    display: flex;
+    align-content: center;
+}
+.bil-bx{
+    width: 100%;
+}
+.bill-box{
+    background:#DCEBFA;
+    height: 17vh;
+    margin: 18%;
+    border-radius: 5%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.bill-box h3{
+    font-size: 19px;
+}
+
+.brand-section{
+    background: ;
+    height: 23vh;
+}
+
